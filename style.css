@@ -1,0 +1,63 @@
+ div /* <=== This Is Selectors */
+ {  
+     background-color: bisque;
+    height: 600px;
+}
+span 
+ { /* <=== This Is Decleration */
+     font-size: 50px; /* Key: Value, */
+ }
+h1{
+    color: blue;
+    font-size: 20px;
+}
+
+p{
+    font-weight: bold;
+}
+
+#pera{
+    color: brown;
+}
+
+.Img{
+    width: 400px;
+    height: 400px;
+}
+
+#one{
+  background-color: chartreuse;
+  position: fixed;
+  /* position: sticky; */
+  /* position: relative; */
+  /* position: absolute; */
+  /* top: 10px; */
+}
+
+#two{
+    background-color: cyan;
+}
+
+#three{
+    background-color: darkblue;
+}
+
+/* Navber */
+
+body{
+    height: 1200px;
+    margin: 0px;
+}
+
+table{
+      background-color: black;
+      width: 150%;
+      position: fixed;
+    }
+tr{
+    color: white;
+}
+a{
+    color: white;
+}
+
